@@ -1,6 +1,6 @@
-# AI Blog Creator
+# AI GD Preps
 
-AI Blog Creator is a Streamlit application that leverages the Google Generative AI model to generate blog content based on user-provided input. With this tool, users can easily create engaging and informative blog posts without extensive writing skills or domain expertise.
+AI GD Preps is a Streamlit application that leverages the Google Generative AI model to generate Group discussion content based on user-provided input. With this tool, users can easily create informative GD without extensive writing skills or domain expertise.
 
 ## Features
 - **Generative AI Model**: Utilizes the Google Generative AI model to generate blog content.
